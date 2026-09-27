@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:harvest_shore",
+    "mysticalterrain:frostshore",
+    "mysticalterrain:black_sand_beach",
+    "mysticalterrain:pearl_shore",
+    "mysticalterrain:fossil_beach",
+    "mysticalterrain:moonshore",
+    "mysticalterrain:coconut_coast",
+    "mysticalterrain:mudflats",
+    "mysticalterrain:dune_coast",
+    "mysticalterrain:mycelium_shore",
+    "mysticalterrain:crystal_shore",
+    "mysticalterrain:icy_beach",
+    "mysticalterrain:windswept_rocky_beach",
+    "mysticalterrain:muddy_beach",
+    "mysticalterrain:rocky_red_beach",
+    "mysticalterrain:rocky_beach",
+    "mysticalterrain:windswept_pebble_beach",
+    "mysticalterrain:windswept_beach",
+    "mysticalterrain:salt_marsh",
+    "mysticalterrain:red_pebble_beach",
+    "mysticalterrain:red_beach",
+    "mysticalterrain:pebble_beach",
+    "mysticalterrain:rocky_snowy_beach",
+    "mysticalterrain:snowy_pebble_beach"
+  ]
+}

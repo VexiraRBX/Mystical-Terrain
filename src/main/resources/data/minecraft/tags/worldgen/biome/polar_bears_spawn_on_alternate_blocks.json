@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:floe_sea",
+    "mysticalterrain:abyssal_floe",
+    "mysticalterrain:iceberg_ocean",
+    "mysticalterrain:rocky_frozen_ocean",
+    "mysticalterrain:deep_rocky_frozen_ocean",
+    "mysticalterrain:deep_iceberg_ocean",
+    "mysticalterrain:gravelly_frozen_ocean",
+    "mysticalterrain:dropstone_shelf"
+  ]
+}

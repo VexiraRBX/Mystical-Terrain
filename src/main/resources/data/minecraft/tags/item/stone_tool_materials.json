@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:runestone",
+    "mysticalterrain:russet_granite",
+    "mysticalterrain:rimestone",
+    "mysticalterrain:ashstone",
+    "mysticalterrain:moonstone",
+    "mysticalterrain:fossil_stone",
+    "mysticalterrain:gloomstone",
+    "mysticalterrain:mirestone",
+    "mysticalterrain:sandrock",
+    "mysticalterrain:starstone"
+  ]
+}

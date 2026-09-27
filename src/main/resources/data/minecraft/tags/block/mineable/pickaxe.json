@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:runestone",
+    "mysticalterrain:runestone_bricks",
+    "mysticalterrain:russet_granite",
+    "mysticalterrain:russet_granite_bricks",
+    "mysticalterrain:rimestone",
+    "mysticalterrain:rimestone_bricks",
+    "mysticalterrain:ashstone",
+    "mysticalterrain:ashstone_bricks",
+    "mysticalterrain:moonstone",
+    "mysticalterrain:moonstone_bricks",
+    "mysticalterrain:fossil_stone",
+    "mysticalterrain:fossil_stone_bricks",
+    "mysticalterrain:gloomstone",
+    "mysticalterrain:gloomstone_bricks",
+    "mysticalterrain:mirestone",
+    "mysticalterrain:mirestone_bricks",
+    "mysticalterrain:sandrock",
+    "mysticalterrain:sandrock_bricks",
+    "mysticalterrain:starstone",
+    "mysticalterrain:starstone_bricks"
+  ]
+}

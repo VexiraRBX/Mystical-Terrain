@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:maple_trapdoor",
+    "mysticalterrain:rimewood_trapdoor",
+    "mysticalterrain:charwood_trapdoor",
+    "mysticalterrain:silverbark_trapdoor",
+    "mysticalterrain:ginkgo_trapdoor",
+    "mysticalterrain:gloamwood_trapdoor",
+    "mysticalterrain:palm_trapdoor",
+    "mysticalterrain:cypress_trapdoor",
+    "mysticalterrain:olive_trapdoor",
+    "mysticalterrain:sporewood_trapdoor",
+    "mysticalterrain:starbark_trapdoor",
+    "mysticalterrain:mystwood_trapdoor"
+  ]
+}

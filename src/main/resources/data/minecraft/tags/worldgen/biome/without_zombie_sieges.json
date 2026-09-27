@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:faerie_ring_isles",
+    "mysticalterrain:mooshroom_atoll",
+    "mysticalterrain:sporecap_isles",
+    "mysticalterrain:rocky_mushroom_fields",
+    "mysticalterrain:wooded_mushroom_fields"
+  ]
+}

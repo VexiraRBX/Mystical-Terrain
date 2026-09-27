@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:autumn_fern",
+    "mysticalterrain:frost_fern",
+    "mysticalterrain:ash_grass",
+    "mysticalterrain:horsetail",
+    "mysticalterrain:royal_fern",
+    "mysticalterrain:cattail",
+    "mysticalterrain:marsh_grass",
+    "mysticalterrain:dune_grass"
+  ]
+}

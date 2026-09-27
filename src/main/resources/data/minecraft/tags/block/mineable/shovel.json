@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:leaf_mold",
+    "mysticalterrain:permafrost",
+    "mysticalterrain:ash_soil",
+    "mysticalterrain:fae_moss",
+    "mysticalterrain:primal_moss",
+    "mysticalterrain:gloam_moss",
+    "mysticalterrain:peat",
+    "mysticalterrain:sunbaked_clay",
+    "mysticalterrain:spore_soil"
+  ]
+}

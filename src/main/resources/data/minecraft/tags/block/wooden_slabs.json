@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:maple_slab",
+    "mysticalterrain:rimewood_slab",
+    "mysticalterrain:charwood_slab",
+    "mysticalterrain:silverbark_slab",
+    "mysticalterrain:ginkgo_slab",
+    "mysticalterrain:gloamwood_slab",
+    "mysticalterrain:palm_slab",
+    "mysticalterrain:cypress_slab",
+    "mysticalterrain:olive_slab",
+    "mysticalterrain:sporewood_slab",
+    "mysticalterrain:starbark_slab",
+    "mysticalterrain:mystwood_slab"
+  ]
+}

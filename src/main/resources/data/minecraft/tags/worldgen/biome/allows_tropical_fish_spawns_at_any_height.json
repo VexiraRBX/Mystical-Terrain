@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:verdant_abyss",
+    "mysticalterrain:rootcellar_caverns",
+    "mysticalterrain:rime_caverns",
+    "mysticalterrain:glowshroom_grotto",
+    "mysticalterrain:mossy_underdeep",
+    "mysticalterrain:twilight_grotto",
+    "mysticalterrain:jungle_caverns",
+    "mysticalterrain:frogspawn_grotto",
+    "mysticalterrain:buried_oasis",
+    "mysticalterrain:shroomlight_hollows",
+    "mysticalterrain:sparse_lush_caves",
+    "mysticalterrain:flowering_lush_caves",
+    "mysticalterrain:dense_lush_caves",
+    "mysticalterrain:flooded_lush_caves",
+    "mysticalterrain:azalea_caves"
+  ]
+}

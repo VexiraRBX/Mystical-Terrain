@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:volcanic_isles",
+    "mysticalterrain:abyssal_floe",
+    "mysticalterrain:abyssal_vents",
+    "mysticalterrain:midnight_deep",
+    "mysticalterrain:sapphire_deep",
+    "mysticalterrain:abyssal_blue",
+    "mysticalterrain:leviathan_deep",
+    "mysticalterrain:deep_rocky_frozen_ocean",
+    "mysticalterrain:deep_iceberg_ocean",
+    "mysticalterrain:deep_rocky_lukewarm_ocean",
+    "mysticalterrain:deep_reef",
+    "mysticalterrain:deep_lukewarm_kelp_forest",
+    "mysticalterrain:deep_rocky_cold_ocean",
+    "mysticalterrain:deep_kelp_forest",
+    "mysticalterrain:deep_icy_cold_ocean",
+    "mysticalterrain:deep_gravelly_ocean",
+    "mysticalterrain:deep_gravelly_cold_ocean",
+    "mysticalterrain:deep_rocky_ocean",
+    "mysticalterrain:deep_cold_kelp_forest",
+    "mysticalterrain:sponge_reef",
+    "mysticalterrain:whale_fall_deep",
+    "mysticalterrain:seamount_pinnacles",
+    "mysticalterrain:dropstone_shelf"
+  ]
+}

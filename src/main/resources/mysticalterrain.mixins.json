@@ -1,0 +1,28 @@
+{
+	"required": true,
+	"package": "com.vexira.mysticalterrain.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"BlockPosMixin",
+		"ChunkPosMixin",
+		"DedicatedServerPropertiesMixin",
+		"DimensionTypeMixin",
+		"EntityMixin",
+		"ForceLoadCommandMixin",
+		"LayeredNoiseUtilMixin",
+		"LevelMixin",
+		"MinecraftServerMixin",
+		"PlayerMixin",
+		"SectionPosMixin",
+		"ServerGamePacketListenerImplMixin",
+		"WorldBorderCommandMixin",
+		"WorldBorderMixin",
+		"WorldBorderSettingsMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

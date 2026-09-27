@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:maple_door",
+    "mysticalterrain:rimewood_door",
+    "mysticalterrain:charwood_door",
+    "mysticalterrain:silverbark_door",
+    "mysticalterrain:ginkgo_door",
+    "mysticalterrain:gloamwood_door",
+    "mysticalterrain:palm_door",
+    "mysticalterrain:cypress_door",
+    "mysticalterrain:olive_door",
+    "mysticalterrain:sporewood_door",
+    "mysticalterrain:starbark_door",
+    "mysticalterrain:mystwood_door"
+  ]
+}

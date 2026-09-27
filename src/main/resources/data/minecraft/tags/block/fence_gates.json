@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:maple_fence_gate",
+    "mysticalterrain:rimewood_fence_gate",
+    "mysticalterrain:charwood_fence_gate",
+    "mysticalterrain:silverbark_fence_gate",
+    "mysticalterrain:ginkgo_fence_gate",
+    "mysticalterrain:gloamwood_fence_gate",
+    "mysticalterrain:palm_fence_gate",
+    "mysticalterrain:cypress_fence_gate",
+    "mysticalterrain:olive_fence_gate",
+    "mysticalterrain:sporewood_fence_gate",
+    "mysticalterrain:starbark_fence_gate",
+    "mysticalterrain:mystwood_fence_gate"
+  ]
+}

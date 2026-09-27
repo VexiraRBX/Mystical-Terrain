@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Mystical Terrain's blocks at 16x, to match vanilla-resolution packs",
+    "min_format": 75,
+    "max_format": 75
+  }
+}

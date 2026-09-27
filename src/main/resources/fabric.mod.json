@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "mysticalterrain",
+	"version": "${version}",
+	"name": "Mystical Terrain",
+	"description": "Adds 1035 new overworld biomes, 12 End biomes and 6 Nether biomes. The overworld gets 759 vanilla-style variants (mossy, rocky, snowy, autumn, flowering, birch, spruce, cherry and many more twists on every vanilla biome, ocean and cave) 264 fantasy biomes in 12 themed realms and 12 seas and caves modelled on real places (sponge reefs, whale falls, drowned forests, lava tubes, glowworm grottos), and vanilla's trees are replaced by 405 kinds of grand tree: 316 grown species (dome-crowned canopy trees, layered bonsai pines and palms by the water) whose branches grow to fill their crowns so no two are alike, plus giants and world trees up to 240 blocks tall. The realms are built from 200 new blocks with realistic 32x textures (and a built-in 16x version you can switch to with F7) and PBR maps: 12 wood sets, 15 leaves, 10 stones with bricks, 9 soils and 22 plants, in their own creative tab. The End gets giant amethyst spires, meteor craters, void leviathan skeletons, floating islands and geodes, frozen glaciers, chorus forests and ruins; the Nether gets emberwood and soulwood forests, quartz caverns, gilded ruins and bone wastes. Biomes and landmasses are four times as wide as vanilla's and the world reaches 67 million blocks from the centre, so it has to be installed on both the server and the client. Uses TerraBlender, so it works alongside other biome mods.",
+	"authors": [
+		"Vexira"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/mysticalterrain/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.vexira.mysticalterrain.MysticalTerrain"
+		],
+		"client": [
+			"com.vexira.mysticalterrain.client.MysticalTerrainClient"
+		],
+		"terrablender": [
+			"com.vexira.mysticalterrain.MysticalTerrain"
+		]
+	},
+	"mixins": [
+		"mysticalterrain.mixins.json",
+		{
+			"config": "mysticalterrain.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*",
+		"terrablender": "*"
+	}
+}

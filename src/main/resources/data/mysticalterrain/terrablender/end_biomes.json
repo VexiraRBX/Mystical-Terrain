@@ -1,0 +1,62 @@
+[
+  {
+    "biome": "mysticalterrain:amethyst_spires",
+    "zone": "highlands",
+    "weight": 4
+  },
+  {
+    "biome": "mysticalterrain:chorus_wilds",
+    "zone": "highlands",
+    "weight": 4
+  },
+  {
+    "biome": "mysticalterrain:weeping_peaks",
+    "zone": "highlands",
+    "weight": 4
+  },
+  {
+    "biome": "mysticalterrain:starfall_craters",
+    "zone": "highlands",
+    "weight": 4
+  },
+  {
+    "biome": "mysticalterrain:pearlbloom_glades",
+    "zone": "midlands",
+    "weight": 4
+  },
+  {
+    "biome": "mysticalterrain:frostvoid_expanse",
+    "zone": "midlands",
+    "weight": 4
+  },
+  {
+    "biome": "mysticalterrain:void_reef",
+    "zone": "midlands",
+    "weight": 4
+  },
+  {
+    "biome": "mysticalterrain:echoing_hollows",
+    "zone": "midlands",
+    "weight": 4
+  },
+  {
+    "biome": "mysticalterrain:shattered_rim",
+    "zone": "edge",
+    "weight": 6
+  },
+  {
+    "biome": "mysticalterrain:leviathan_barrens",
+    "zone": "edge",
+    "weight": 6
+  },
+  {
+    "biome": "mysticalterrain:nebula_drift",
+    "zone": "islands",
+    "weight": 6
+  },
+  {
+    "biome": "mysticalterrain:geode_archipelago",
+    "zone": "islands",
+    "weight": 6
+  }
+]

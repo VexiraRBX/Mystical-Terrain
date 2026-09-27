@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:emberwood_forest",
+    "mysticalterrain:soulwood_thicket",
+    "mysticalterrain:quartz_caverns",
+    "mysticalterrain:gilded_ruins",
+    "mysticalterrain:bone_wastes",
+    "mysticalterrain:magma_rifts"
+  ]
+}

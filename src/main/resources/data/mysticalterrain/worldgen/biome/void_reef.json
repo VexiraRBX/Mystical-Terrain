@@ -1,0 +1,58 @@
+{
+  "carvers": [],
+  "downfall": 0.5,
+  "effects": {
+    "water_color": "#3f76e4"
+  },
+  "has_precipitation": false,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:enderman",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 0.5,
+  "features": [
+    [],
+    [],
+    [
+      "mysticalterrain:end/void_reef_ground"
+    ],
+    [],
+    [
+      "mysticalterrain:end/starstone",
+      "mysticalterrain:end/void_reef_corals"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "mysticalterrain:end/void_reef_roots"
+    ],
+    []
+  ],
+  "attributes": {
+    "minecraft:visual/ambient_particles": [
+      {
+        "particle": {
+          "type": "minecraft:glow"
+        },
+        "probability": 0.004
+      }
+    ],
+    "minecraft:visual/fog_color": "#0f2a2a"
+  }
+}

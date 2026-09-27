@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:amethyst_spires",
+    "mysticalterrain:chorus_wilds",
+    "mysticalterrain:weeping_peaks",
+    "mysticalterrain:starfall_craters",
+    "mysticalterrain:pearlbloom_glades",
+    "mysticalterrain:frostvoid_expanse",
+    "mysticalterrain:void_reef",
+    "mysticalterrain:echoing_hollows"
+  ]
+}

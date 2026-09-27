@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:leafdrift_river",
+    "mysticalterrain:glass_river",
+    "mysticalterrain:cinder_river",
+    "mysticalterrain:moonlit_stream",
+    "mysticalterrain:silt_river",
+    "mysticalterrain:nightglass_river",
+    "mysticalterrain:jade_river",
+    "mysticalterrain:murky_river",
+    "mysticalterrain:wadi",
+    "mysticalterrain:sporestream",
+    "mysticalterrain:starlight_river",
+    "mysticalterrain:gravelly_river",
+    "mysticalterrain:reedy_river",
+    "mysticalterrain:red_river",
+    "mysticalterrain:autumn_river",
+    "mysticalterrain:rocky_river",
+    "mysticalterrain:rocky_frozen_river",
+    "mysticalterrain:icy_river",
+    "mysticalterrain:gravelly_frozen_river",
+    "mysticalterrain:firefly_river",
+    "mysticalterrain:muddy_river",
+    "mysticalterrain:lush_river",
+    "mysticalterrain:mossy_river",
+    "mysticalterrain:sandy_river"
+  ]
+}

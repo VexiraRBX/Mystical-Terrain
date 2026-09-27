@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#mysticalterrain:maple_logs",
+    "#mysticalterrain:rimewood_logs",
+    "#mysticalterrain:silverbark_logs",
+    "#mysticalterrain:ginkgo_logs",
+    "#mysticalterrain:gloamwood_logs",
+    "#mysticalterrain:palm_logs",
+    "#mysticalterrain:cypress_logs",
+    "#mysticalterrain:olive_logs",
+    "#mysticalterrain:starbark_logs",
+    "#mysticalterrain:mystwood_logs"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:maple_stairs",
+    "mysticalterrain:rimewood_stairs",
+    "mysticalterrain:charwood_stairs",
+    "mysticalterrain:silverbark_stairs",
+    "mysticalterrain:ginkgo_stairs",
+    "mysticalterrain:gloamwood_stairs",
+    "mysticalterrain:palm_stairs",
+    "mysticalterrain:cypress_stairs",
+    "mysticalterrain:olive_stairs",
+    "mysticalterrain:sporewood_stairs",
+    "mysticalterrain:starbark_stairs",
+    "mysticalterrain:mystwood_stairs"
+  ]
+}

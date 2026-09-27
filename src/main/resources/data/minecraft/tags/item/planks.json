@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:maple_planks",
+    "mysticalterrain:rimewood_planks",
+    "mysticalterrain:charwood_planks",
+    "mysticalterrain:silverbark_planks",
+    "mysticalterrain:ginkgo_planks",
+    "mysticalterrain:gloamwood_planks",
+    "mysticalterrain:palm_planks",
+    "mysticalterrain:cypress_planks",
+    "mysticalterrain:olive_planks",
+    "mysticalterrain:sporewood_planks",
+    "mysticalterrain:starbark_planks",
+    "mysticalterrain:mystwood_planks"
+  ]
+}

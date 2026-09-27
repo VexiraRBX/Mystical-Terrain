@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:mystwood_leaves",
+    "mysticalterrain:starbloom_blossoms",
+    "mysticalterrain:maple_leaves",
+    "mysticalterrain:golden_maple_leaves",
+    "mysticalterrain:rimewood_leaves",
+    "mysticalterrain:ember_leaves",
+    "mysticalterrain:silverbark_leaves",
+    "mysticalterrain:wisteria_blossoms",
+    "mysticalterrain:ginkgo_leaves",
+    "mysticalterrain:gloamwood_leaves",
+    "mysticalterrain:palm_fronds",
+    "mysticalterrain:mango_leaves",
+    "mysticalterrain:cypress_leaves",
+    "mysticalterrain:olive_leaves",
+    "mysticalterrain:starbark_leaves"
+  ]
+}

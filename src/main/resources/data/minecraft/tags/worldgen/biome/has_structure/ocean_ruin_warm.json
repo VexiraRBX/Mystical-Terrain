@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:volcanic_isles",
+    "mysticalterrain:magma_reef",
+    "mysticalterrain:steamvent_sea",
+    "mysticalterrain:abyssal_vents",
+    "mysticalterrain:iridescent_sea",
+    "mysticalterrain:ancient_shallows",
+    "mysticalterrain:coral_lagoon",
+    "mysticalterrain:turquoise_shallows",
+    "mysticalterrain:sapphire_deep",
+    "mysticalterrain:sargasso_sea",
+    "mysticalterrain:sandbar_shallows",
+    "mysticalterrain:coral_sands_sea",
+    "mysticalterrain:rocky_warm_ocean",
+    "mysticalterrain:coral_reef",
+    "mysticalterrain:lukewarm_seagrass_meadow",
+    "mysticalterrain:lukewarm_reef",
+    "mysticalterrain:sandy_lukewarm_ocean",
+    "mysticalterrain:rocky_lukewarm_ocean",
+    "mysticalterrain:lukewarm_kelp_forest",
+    "mysticalterrain:deep_rocky_lukewarm_ocean",
+    "mysticalterrain:deep_reef",
+    "mysticalterrain:deep_lukewarm_kelp_forest",
+    "mysticalterrain:warm_seagrass_meadow",
+    "mysticalterrain:seamount_pinnacles",
+    "mysticalterrain:bioluminescent_bay"
+  ]
+}

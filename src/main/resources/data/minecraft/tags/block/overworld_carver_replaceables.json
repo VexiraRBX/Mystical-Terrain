@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:runestone",
+    "mysticalterrain:russet_granite",
+    "mysticalterrain:rimestone",
+    "mysticalterrain:ashstone",
+    "mysticalterrain:moonstone",
+    "mysticalterrain:fossil_stone",
+    "mysticalterrain:gloomstone",
+    "mysticalterrain:mirestone",
+    "mysticalterrain:sandrock",
+    "mysticalterrain:starstone",
+    "mysticalterrain:leaf_mold",
+    "mysticalterrain:permafrost",
+    "mysticalterrain:ash_soil",
+    "mysticalterrain:fae_moss",
+    "mysticalterrain:primal_moss",
+    "mysticalterrain:gloam_moss",
+    "mysticalterrain:peat",
+    "mysticalterrain:sunbaked_clay",
+    "mysticalterrain:spore_soil"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:ashen_dunes",
+    "mysticalterrain:sugar_sand_dunes",
+    "mysticalterrain:great_erg",
+    "mysticalterrain:endstone_wastes",
+    "mysticalterrain:gravelly_desert",
+    "mysticalterrain:windswept_gravelly_desert",
+    "mysticalterrain:desert_oasis",
+    "mysticalterrain:rocky_desert",
+    "mysticalterrain:blooming_red_desert",
+    "mysticalterrain:blooming_desert",
+    "mysticalterrain:windswept_desert",
+    "mysticalterrain:windswept_red_desert",
+    "mysticalterrain:rocky_red_desert",
+    "mysticalterrain:desert_scrub",
+    "mysticalterrain:windswept_rocky_desert",
+    "mysticalterrain:red_desert"
+  ]
+}

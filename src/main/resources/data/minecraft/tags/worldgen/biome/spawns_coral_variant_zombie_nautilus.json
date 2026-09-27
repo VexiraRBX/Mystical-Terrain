@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mysticalterrain:magma_reef",
+    "mysticalterrain:coral_lagoon",
+    "mysticalterrain:sandbar_shallows",
+    "mysticalterrain:rocky_warm_ocean",
+    "mysticalterrain:coral_reef",
+    "mysticalterrain:warm_seagrass_meadow"
+  ]
+}
